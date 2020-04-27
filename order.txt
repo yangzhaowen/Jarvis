@@ -1,0 +1,7 @@
+微信路径为->D:\Tool\Tencent\Tencent\WeChat\WeChat.exe
+QQ路径为->D:\Tool\Tencent\Tencent\QQ\Bin\QQ.exe
+截图路径为->D:\Tool\snipaste\Snipaste-1.11.0-x86\Snipaste.exe
+谷歌路径为->D:\Tool\google\ChromeCore\ChromeCoreLauncher.exe
+网盘路径为->D:\Tool\baidu\BaiduNetdisk\BaiduNetdisk.exe
+录屏路径为->D:\Tool\FAScapture\FSCapture.exe
+
